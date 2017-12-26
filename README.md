@@ -1,0 +1,2 @@
+# hellogo
+golang sample
